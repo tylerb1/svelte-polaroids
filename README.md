@@ -8,7 +8,17 @@
 
 ![demo](https://i.imgur.com/DBpx36P.gif)
 
+# usage
+
+```
+<script>
+	import SveltePolaroid from "svelte-polaroids";
+</script>
+
+<SveltePolaroid size={200} sources={[ 'https://.../pic1.jpg', 'https://.../pic2.jpg', ... ]} />
+```
+
 # props
 
-- size: an integer specifying how tall or wide picture should be (vertical pictures use height, horizontal use length)
-- sources: an array of strings specifying the urls of the images to be used
+- size: maximum for the larger of the image's two dimensions
+- sources: urls of the images to be used
