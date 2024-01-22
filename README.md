@@ -1,6 +1,8 @@
-# svelte-polaroid
+# svelte-polaroids
 
-> a simple polaroid photo component, made with <3 by [tylerb1](https://github.com/tylerb1) using svelte, interactjs, and rollup
+- a simple polaroid photo component 
+- made with <3 by [tylerb1](https://github.com/tylerb1) 
+- uses interactjs
 
 # gif demo
 
@@ -8,5 +10,5 @@
 
 # props
 
-> size: an integer specifying how tall or wide picture should be (vertical pictures use height, horizontal use length)
-> sources: an array of strings specifying the urls of the images to be used
+- size: an integer specifying how tall or wide picture should be (vertical pictures use height, horizontal use length)
+- sources: an array of strings specifying the urls of the images to be used
