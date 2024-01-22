@@ -6,7 +6,7 @@
 
 # gif demo
 
-![demo](https://i.imgur.com/DBpx36P.gif)
+![demo](https://i.imgur.com/lfpSrrL.gif)
 
 # usage
 
