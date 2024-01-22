@@ -1,1 +1,2 @@
-// Reexport your entry components here
+import SveltePolaroid from './SveltePolaroid.svelte';
+export default SveltePolaroid;
