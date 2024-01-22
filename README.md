@@ -2,7 +2,7 @@
 
 - a simple polaroid photo component 
 - made with <3 by [tylerb1](https://github.com/tylerb1) 
-- uses interactjs
+- uses interactjs and some [great code](https://smth.uk/building-a-swipeable-card-stack/) written by Sam Smith
 
 # gif demo
 
