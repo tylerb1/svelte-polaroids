@@ -1,7 +1,17 @@
 {
 	"name": "svelte-polaroids",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"license": "MIT",
+	"keywords": [
+		"svelte",
+		"polaroid",
+		"photo",
+		"image",
+		"picture",
+		"swipe",
+		"swipeable",
+		"stack"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
