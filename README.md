@@ -1,8 +1,8 @@
 # svelte-polaroids
 
-- a simple polaroid photo component 
-- made with <3 by [tylerb1](https://github.com/tylerb1) 
-- uses interactjs and some [great code](https://smth.uk/building-a-swipeable-card-stack/) written by Sam Smith
+- a simple polaroid photo component
+- great for letting users browse sequential images
+- only dependency is interactjs
 
 # gif demo
 
@@ -22,3 +22,9 @@
 
 - size: maximum for the larger of the image's two dimensions
 - sources: urls of the images to be used
+
+# authors
+
+- written by [tylerb1](https://github.com/tylerb1) 
+- designed by [Jennifer Herzberg](https://www.jenniferherzberg.com)
+- adopted from a [demo](https://smth.uk/building-a-swipeable-card-stack/) by Sam Smith
